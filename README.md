@@ -1,4 +1,4 @@
-<img width="332" height="268" alt="9" src="https://github.com/user-attachments/assets/fc0409ea-943e-4692-a090-9bc26b040d3e" /><img width="977" height="440" alt="5 I" src="https://github.com/user-attachments/assets/c0aaa13e-704d-43e3-9795-83b51ac2f1a6" /><img width="592" height="106" alt="1" src="https://github.com/user-attachments/assets/d27dbdfd-b8c2-4699-8441-909d384b68fe" /># Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student
+# Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student
 
 ## AIM:
 To write a program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
@@ -9,12 +9,18 @@ To write a program to implement the the Logistic Regression Model to Predict the
 
 ## Algorithm
 1. Import the standard libraries.
+
 2.Upload the dataset and check for any null or duplicated values using .isnull() and .duplicated() function respectively.
+
 3.Import LabelEncoder and encode the dataset.
+
 4.Import LogisticRegression from sklearn and apply the model on the dataset.
-Predict the values of array.
-5.Calculate the accuracy, confusion and classification report by importing the required modules from sklearn.
-6.Apply new unknown values
+
+5.Predict the values of array.
+
+6.Calculate the accuracy, confusion and classification report by importing the required modules from sklearn.
+
+7.Apply new unknown values
 
 ## Program:
 ```
