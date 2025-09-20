@@ -111,7 +111,7 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 ### CONFUSION MATRIX
 
-<img width="332" height="268" alt="9" src="https://github.com/user-attachments/assets/60482d47-f9a8-45bd-829a-4e7bd26826a7" />
+<img width="172" height="52" alt="CONFUSION " src="https://github.com/user-attachments/assets/729f5093-5463-4791-95e3-d273c302b992" />
 
 
 ### CLASSIFICATION REPORT
